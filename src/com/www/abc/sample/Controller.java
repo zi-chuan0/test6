@@ -5,5 +5,6 @@ public class Controller {
     private String three;
     private String dev;
     private String getMaster;
+    private String getDev;
 }
 
