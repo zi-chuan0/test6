@@ -7,6 +7,7 @@ public class Controller {
     private String getMaster;
     private String getDev;
     private String gg;
-    private Strinf ff;
+    private String ff;
+    private String dd;
 }
 
